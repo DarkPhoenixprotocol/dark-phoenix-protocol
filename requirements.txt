@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/diffusers.git
+transformers>=4.44
+accelerate
+torch
+imageio
+imageio-ffmpeg
+spaces
+Pillow
+safetensors
